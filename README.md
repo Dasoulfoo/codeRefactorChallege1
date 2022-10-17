@@ -24,3 +24,4 @@ by gettig rid of the Div tag and replacing it with a section ID then was able to
 ## HTML Footer
 i replaced the Div class footer because the footer was not coveying any special meaning to the content
 
+file:///Users/davidroy/Documents/bootcampprojects/codeRefactorChallege1/index.html
